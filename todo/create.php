@@ -18,8 +18,8 @@
             <?php
                 getSession("create_errors", 'name','danger');
             ?>
-            <input type="submit" value="save" class="btn btn-success mt-2">
-            <a href="profile.php" class="btn btn-primary mt-2">Profile</a>
+            <input type="submit" value="save" class="btn btn-outline-success mt-2">
+            <a href="profile.php" class="btn btn-outline-primary mt-2">Profile</a>
         </form>
     </div>
 </div>

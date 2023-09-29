@@ -31,8 +31,8 @@
             <label for="inputPassword5" class="form-label text-light fs-1">edit</label>
             <input type="hidden" name="id" value="<?= $data['id'] ?>">
             <input type="text" name="name" value="<?= $data['task'] ?>" id="inputPassword5" class="form-control">
-            <input type="submit" value="update" class="btn btn-success mt-2">
-            <a href="profile.php" class="btn btn-primary mt-2">Profile</a>
+            <input type="submit" value="update" class="btn btn-outline-success mt-2">
+            <a href="profile.php" class="btn btn-outline-primary mt-2">Profile</a>
         </Form>
     </div>
 </div>
