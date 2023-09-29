@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-image: url(https://media.istockphoto.com/id/1482176963/photo/dark-blue-background-with-confetti-horizontal.webp?b=1&s=170667a&w=0&k=20&c=XHZ8uohnIG_atY7DVstPcFY6LjP-aBfn-K3Q3T_9A2k=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container.w-25.border.m-auto.mt-2 {
+    backdrop-filter: blur(18px);
+    /* margin-top: 15vh !important; */
+}
+
+input#exampleFromControlInput1 {
+    background-color: #ffffff40;
+    color: aliceblue;
+    border: none;
+}
+
+input#PasswordID {
+    background-color: #ffffff40;
+    color: aliceblue;
+    border: none;
+}
+
+
+.mb-3 {
+    color: aliceblue;
+}
+
+/* Register */
+#textRegister {
+    color: aliceblue;
+    padding: auto;
+    margin: 20px;
+    text-align: center;
+}
+
+#btn {
+    text-align: center;
+}
+
+nav.navbar.navbar-expand-lg {
+    background-color: transparent !important;
+    backdrop-filter: blur(10px);
+}
+
+
+#table {
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    color: aliceblue;
+}
+
+
+#table td {
+    background-color: transparent;
+    color: aliceblue;
+
+}
+
+#table th {
+    background-color: transparent;
+    color: aliceblue;
+
+
+}
