@@ -10,5 +10,17 @@
         "name": "mahmoud mokhtra",
         "email": "mahmoud@gmail.com",
         "password": "$2y$10$VroiopClbWS0doD5yeQtDuHvlau\/qbz17IAd3784lF4\/PtDSjCyNm"
+    },
+    {
+        "id": 3,
+        "name": "mahmoud mokhtra",
+        "email": "adsa@mekha.com",
+        "password": "$2y$10$Xi9jK13M3u\/4ABg\/oYJuJ.Yps5yIUWJhLF60TkRkn7zbZM73aB2LC"
+    },
+    {
+        "id": 4,
+        "name": "omar",
+        "email": "omar@gmail.com",
+        "password": "$2y$10$Xcp4YH47EA3maJNNMNzL0..HQ7JZBD3PWAICiXYGXpBiD2JIWXHFa"
     }
 ]
