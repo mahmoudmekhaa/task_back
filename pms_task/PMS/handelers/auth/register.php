@@ -36,7 +36,6 @@ if(isset($_POST['submit'])&&$_SERVER['REQUEST_METHOD']=="POST"){
 
 
 
-    //database
     include "../../database/database.php";
     $sql1="SELECT * FROM `users`";
     $result1=mysqli_query($conn,$sql1);
